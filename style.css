@@ -76,7 +76,7 @@ a:hover{
 
 .container{
     height: 750px;
-    width: 1520px;
+    width: 1519px;
     position: relative;
     top: 83px;
     display: flex;
@@ -85,7 +85,7 @@ a:hover{
 
 .backimg{
     height: 665px;
-    width: 1520px;
+    width: 1519px;
     z-index: -1;
 }
 
@@ -126,7 +126,7 @@ p{
 
 .franchise{
     height: 341px;
-    width: 1520px;
+    width: 1519px;
     padding-top: 80px;
     padding-bottom: 80px;
     background-color: #f4f3f3;
@@ -287,7 +287,7 @@ h3{
 
 .benefits{
     height: 296px;
-    width: 1520px;
+    width: 1519px;
     background-color: #f4f3f3;
     padding-top: 80px;
     padding-bottom: 80px;
@@ -376,8 +376,6 @@ h3{
 }
 
 .prod:hover{
-
-    /* background-color:#f4f3f3; */
     box-shadow: 0 0 70px #00000017;
 }
 
@@ -438,7 +436,7 @@ h3{
 
 .lastimg{
     height: 485px;
-    width: 1520px;
+    width: 1519px;
 }
 
 .foot{
