@@ -1,6 +1,7 @@
 *{
     margin: 0;
     font-family: sans-serif;
+
 }
 
 .navbar{
@@ -376,6 +377,8 @@ h3{
 }
 
 .prod:hover{
+
+    /* background-color:#f4f3f3; */
     box-shadow: 0 0 70px #00000017;
 }
 
@@ -431,8 +434,12 @@ h3{
     justify-content: center;
 }
 
+/* Footer */
 
-/* footer */
+.footermain{
+    height: 485px;
+    width: 1519px;
+}
 
 .lastimg{
     height: 485px;
@@ -445,7 +452,7 @@ h3{
     padding-left: 20px;
     padding-right: 20px;
     position: absolute;
-    bottom: -4314px;
+    bottom: -4385px;
     left: 56px;               
     z-index: 5;
 
